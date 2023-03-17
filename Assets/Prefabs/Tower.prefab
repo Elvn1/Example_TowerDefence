@@ -117,7 +117,7 @@ MonoBehaviour:
   attackCurTime: 0
   attackSpeed: 1
   targetEnemy: {fileID: 0}
-  bulletPrefab: {fileID: 8951051246269855721, guid: d31b93341d30f98478331841d4f7e603, type: 3}
+  bulletPrefab: {fileID: 1129523881001499245, guid: d31b93341d30f98478331841d4f7e603, type: 3}
   muzzleEffect: {fileID: 0}
   towerState: 0
   enemyDetecting: {fileID: 0}
